@@ -1,2 +1,2 @@
-# SheHacks-
+# SheHacks+
 to do list
